@@ -1,10 +1,16 @@
 {
-"name": "com.maggic.DllProjects",
-"displayName": "DllProjects",
-"description": "this is my package",
-"version": "1.0.0",
-"unity": "2023.4",
-"license": "MIT",
-"dependencies": {
- }
+  "name": "com.maggic.DllProjects",
+  "displayName": "DllProjects",
+  "description": "this is my package",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Mrhufenglei",
+    "url": "https://github.com/Mrhufenglei"
+  },
+  "repository": "https://github.com/Mrhufenglei/DllProjects.git",
+  "license": "MIT",
+  "type": "tool"
 }
